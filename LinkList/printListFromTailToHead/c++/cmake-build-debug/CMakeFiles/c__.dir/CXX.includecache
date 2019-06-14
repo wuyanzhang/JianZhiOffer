@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wyz/Documents/jzoffer/LinkList/printListFromTailToHead/c++/main.cpp
+iostream
+-
+vector
+-
+stack
+-
+
